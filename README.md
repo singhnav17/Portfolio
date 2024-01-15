@@ -9,3 +9,5 @@ Proficient in tools like JMeter, Selenium, POSTMAN, and frameworks like Cucumber
 My career journey spans roles at Hudson Bay Company and Tata Consultancy Services, contributing to system integration, regression, and end-to-end testing. Armed with a Master's in Engineering, I bring a robust understanding of SDLC and STLC.
 
 Let's connect to explore how my skills align with your team's needs.
+
+Experiences:
