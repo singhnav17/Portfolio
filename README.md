@@ -10,4 +10,4 @@ My career journey spans roles at Hudson Bay Company and Tata Consultancy Service
 
 Let's connect to explore how my skills align with your team's needs.
 
-Experiences:
+My LinkedIN Profile
