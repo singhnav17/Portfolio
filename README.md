@@ -6,6 +6,6 @@ I'm Navraj Singh, a seasoned QA professional with 8+ years of expertise in Softw
 
 Proficient in tools like JMeter, Selenium, POSTMAN, and frameworks like Cucumber, I excel in Agile Scrum methodologies. At Volante Systems, I achieved a 10% defect rate reduction in a rich SaaS application, conducting cross-platform testing on GCP.
 
-My career journey spans roles at Hudson Bay Company and Tata Consultancy Services, contributing to system integration, regression, and end-to-end testing. Armed with a Master's in Engineering, I bring a robust understanding of SDLC and STLC.
+My career journey spans roles at Hudson Bay Company and Tata Consultancy Services, contributing to system integration, regression, and end-to-end testing. I bring a robust understanding of SDLC and STLC.
 
 Let's connect to explore how my skills align with your team's needs.
