@@ -12,3 +12,10 @@ Let's connect to explore how my skills align with your team's needs.
 
 [My LinkedIN Profile](https://www.linkedin.com/in/navraj-singh-ca)
 
+<font size = "10">**TECH SKILLS**</font>
+* SQL
+* Software Testing
+* API Testing
+* WebdriverIO
+* <font size = "6">**Testing Methodologies:**</font> Agile Scrum, Waterfall, SDLC, STLC
+* 
