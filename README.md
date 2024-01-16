@@ -33,9 +33,9 @@ Let's connect to explore how my skills align with your team's needs.
 
 <font size = "10">**COURSES & CERTIFICATIONS**</font> 📓
 * [Professional Scrum Master 1](https://scrum.org/certificates/860833)
-* [CAPM Exam Prep Seminar (25 Contact Hours PMI)](https://www.udemy.com/course/capm-pmbok6/)
+* [CAPM Exam Prep Seminar (25 Contact Hours PMI)](https://www.udemy.com/course/capm-pmbok6/) - [Certificate](https://www.udemy.com/certificate/UC-d92f7257-3605-41e5-a27f-abe578f2068d/)
 * Selenium Webdriver with JAVA - Basics to Advanced + Frameworks
-* [WebdriverIO + Node.js - JavaScript UI Automation from Scratch](https://www.udemy.com/course/webdriverio-tutorial-nodejs-javascript/)
-* [Web Design Accessibility](https://www.udemy.com/course/web-accessibility/)
-* [DevOps, CI/CD Continuous Integration/Delivery for Beginners](https://www.udemy.com/course/ci-cd-devops/)
-* [Machine Learning for Absolute Beginners - Level 1](https://www.udemy.com/course/machine-learning-for-absolute-beginners-level-1/)
+* [WebdriverIO + Node.js - JavaScript UI Automation from Scratch](https://www.udemy.com/course/webdriverio-tutorial-nodejs-javascript/) - [Certificate](https://www.udemy.com/certificate/UC-e395d500-4f53-4b25-a766-21a156285956/)
+* [Web Design Accessibility](https://www.udemy.com/course/web-accessibility/) - [Certificate](https://www.udemy.com/certificate/UC-aeca6811-8a48-47bc-8272-e163fa41ac80/)
+* [DevOps, CI/CD Continuous Integration/Delivery for Beginners](https://www.udemy.com/course/ci-cd-devops/) - [Certificate](https://www.udemy.com/certificate/UC-f892dfbf-8061-4781-92e5-ddf589f0f56e/)
+* [Machine Learning for Absolute Beginners - Level 1](https://www.udemy.com/course/machine-learning-for-absolute-beginners-level-1/) - [Certificate](https://www.udemy.com/certificate/UC-4e2cb7fa-30a7-4001-b4da-973b899bce4c/)
