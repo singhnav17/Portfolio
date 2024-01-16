@@ -10,4 +10,5 @@ My career journey spans roles at Hudson Bay Company and Tata Consultancy Service
 
 Let's connect to explore how my skills align with your team's needs.
 
-My LinkedIN Profile
+[My LinkedIN Profile](https://www.linkedin.com/in/navraj-singh-ca)
+
