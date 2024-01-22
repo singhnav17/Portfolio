@@ -19,7 +19,7 @@ Let's connect to explore how my skills align with your team's needs.
 * **WebdriverIO** with Mocha/Cucumber in **Javascript**
 * <font size = "6">**Testing Methodologies:**</font> Agile Scrum, Waterfall, SDLC, STLC
 * Creating Test Cases (Automation and Manual)
-* **Selenium Webdriver** in **Java**
+* **Selenium Webdriver** in **Java** with Cucumber/TestNG
 * Perfomance Testing with **JMeter**
 * **Databases:** PostgreSQL, MS SQL Server, DbVisualizer, OracleDB
 * **Build and CI Tools:** TeamCity, Jenkins, Git, Perforce
@@ -39,3 +39,7 @@ Let's connect to explore how my skills align with your team's needs.
 * [Web Design Accessibility](https://www.udemy.com/course/web-accessibility/) - [Certificate](https://www.udemy.com/certificate/UC-aeca6811-8a48-47bc-8272-e163fa41ac80/)
 * [DevOps, CI/CD Continuous Integration/Delivery for Beginners](https://www.udemy.com/course/ci-cd-devops/) - [Certificate](https://www.udemy.com/certificate/UC-f892dfbf-8061-4781-92e5-ddf589f0f56e/)
 * [Machine Learning for Absolute Beginners - Level 1](https://www.udemy.com/course/machine-learning-for-absolute-beginners-level-1/) - [Certificate](https://www.udemy.com/certificate/UC-4e2cb7fa-30a7-4001-b4da-973b899bce4c/)
+
+<font size = "10">**SAMPLES**</font>
+
+* [Test Plan](https://drive.google.com/file/d/1DTExBuCTj47dGKItYYFdJzJjXzUERkGl/view?usp=sharing)
